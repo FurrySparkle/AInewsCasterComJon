@@ -1,0 +1,6 @@
+2023/03/14-13:45:20.478 25a0 Creating DB C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/14-13:45:20.490 25a0 Reusing MANIFEST C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/14-13:46:27.095 5994 Level-0 table #5: started
+2023/03/14-13:46:27.102 5994 Level-0 table #5: 9091 bytes OK
+2023/03/14-13:46:27.117 5994 Delete type=0 #3
+2023/03/14-13:46:27.118 5994 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
