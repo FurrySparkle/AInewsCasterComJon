@@ -4,44 +4,31 @@
       "finish_reason": "stop",
       "index": 0,
       "message": {
-        "content": "[The show opens on James Olympia waving to the audience]\n\n
-JAMES OLYMPIA: Greetings! Welcome to Yesterday Today, the show that knows what you
- need to know today, but yesterday. In international news today, Russia has agreed to extend the Ukraine grain deal again. [James nods his head] This is great news 
-as it means that Ukraine will have a consistent supply of grain which they can turn into... whatever it is they do with grain. And as we all know, when Ukraine has 
-grain, the world is a happier place. [James smiles]\n
-\nBut enough about grain for now. It's time for a quick fact from our science editor, Willie Newton. Willie, tell
- us something exciting!\n
-\n[Camera cuts to Willie, who is off-camera]\n
-\nWILLIE NEWTON: Did you know that the amount of energy released when food is burned is exactly
- the same whether you burn it in a fireplace or a human digestive system? [laughs] Isn't that fascinating?\n
-\n[Camera cuts back to James]\n\nJAMES OLYMPIA: That
- really is amazing, Willie. Thanks for sharing! [James leans back]\n
-\nNow, let's get back to Russia and Ukraine. This deal extension does beg the question, though. 
-How many extensions can one deal have before it expires? [James shakes his head]\n
-\nWell, we reached out to our Accuracy Assurance Agent, Tony Bansya, to get his
- take on the matter. Tony has the sensibilities of Russel Brand and the accuracy of... well, nobody, really. [James winks]\n
-\nBut before we can hear what Tony has
- to say, we have to take a quick break. When we come back, we'll hear Tony's thoughts, and we'll find out if Russia and Ukraine can keep this grain deal going 
-forever. [James waves, and we cut to a commercial break]\n
-\n[Coming back from the break]\n
-\nJAMES OLYMPIA: Welcome back to Yesterday Today. We're talking about
- Russia extending the grain deal with Ukraine (again), and we have our Accuracy Assurance Agent, Tony Bansya, on the line now to give us his thoughts. 
-Tony, what do you think?\n\n[James pauses. There's a laugh track played in the background. James leans forward to his desk, and there's a noticeable sound
- of arms and legs creaking as he does so]\n\nJAMES OLYMPIA: Oh, wait a minute. It looks like Tony is out sick today. So we'll just have to use our own best 
-judgement. [James puts his hand on his heart]\n\nWell folks, it seems like this deal is going to be extended for a long time yet. [James raises his eyebrows] And
- as long as we all have bread on our tables, life is good. That's our show for today. I'm James Olympia, and I'll see you... yesterday! [James laughs and waves as
- we go to black.]",
+        "content": "[JAMES OLYMPIA waves to the audience as the camera focuses on him]\n
+        \nJames Olympia: Greetings! Greetings! It's me, James Olympia, and you're watching Yesterday Today,
+         the show that tells you what you need to know today, but yesterday. Today we have a shocking story from Russia. 
+         The country has banned soundcloud rappers. [shakes his head]\n
+         \nNow, I know what you're thinking, \"James, what's a soundcloud rapper?\"
+          Well, it's a rapper who's music is primarily shared on the music-sharing platform Soundcloud. [nods]\n
+          \nAccording to our sources, Russia has banned soundcloud rappers because they're a threat to national security. [opens his arms]\n
+          \nNow, I don't know about you, but I've never felt threatened by a soundcloud rapper. In fact, I find their music quite soothing. [puts his hand on his heart]\n
+          \nBut, apparently, the Russian government thinks differently. They believe that soundcloud rappers are a bad influence on the country's youth. 
+          [fold his arms accross his chest]\n
+          \nWe reached out to the Russian government for comment, but they declined to speak with us. [shrugs]\n
+          \nNow, I have to say, this is a sad day for music lovers everywhere. But fear not, dear viewers, for there are still 
+          plenty of great rappers out there who aren't on Soundcloud. [leans back]\n
+          \nAnd that's all the time we have for today. I'm James Olympia, and I'll see you... yesterday. [laugh track is played]",
         "role": "assistant"
       }
     }
   ],
-  "created": 1679949518,
-  "id": "chatcmpl-6yntugBPORDO94A4vSQsw4JQoaXOv",
+  "created": 1680033024,
+  "id": "chatcmpl-6z9cmErE4Xhns2XVictYgZB9vCu7f",
   "model": "gpt-3.5-turbo-0301",
   "object": "chat.completion",
   "usage": {
-    "completion_tokens": 592,
-    "prompt_tokens": 1572,
-    "total_tokens": 2164
+    "completion_tokens": 322,
+    "prompt_tokens": 1567,
+    "total_tokens": 1889
   }
 }

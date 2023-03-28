@@ -12,17 +12,17 @@ The headline is as follows:"},
 * When writing gestures, choose exclusively from this list of actions James can perform:
 
 1) Wave
-2) Smile
+/2) Smile
 3) nod
 4) open his arms
 5) fold his arms accross his chest
-6) wink
-7) laugh
+/6) wink
+/7) laugh
 8) shake his head
 9) lean back
 10) fold his arms behind his head
 11) put his hand on his heart
-12) raise his eyebrows
+/12) raise his eyebrows
 13) laugh track is played
 
 * Here is an example of how a typical episode begins:

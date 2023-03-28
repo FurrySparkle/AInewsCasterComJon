@@ -51,17 +51,17 @@ import os
 
 GESTURE_LIST = {
     "wave": "gesture_wave",
-    "smile": "gesture_smile",
+    # "smile": "gesture_smile",
     "nod": "gesture_nod",
     "open his arms": "gesture_open_arms",
     "fold his arms across his chest": "gesture_fold_arms",
-    "wink": "gesture_wink",
-    "laugh": "gesture_laugh",
+    # "wink": "gesture_wink",
+    # "laugh": "gesture_laugh",
     "shake his head": "gesture_shake_head",
     "lean back": "gesture_lean_back",
     "fold his arms behind his head": "gesture_fold_arms_behind_head",
     "put his hand on his heart": "gesture_heart",
-    "raise his eyebrows": "gesture_raise_eyebrows"
+    # "raise his eyebrows": "gesture_raise_eyebrows"
 }
 
 def read_script(filename):
@@ -90,7 +90,7 @@ def read_script(filename):
                 gesture_name = line[1:-1].strip().lower()
                 if gesture_name in GESTURE_LIST:
                     gesture_function_name = GESTURE_LIST[gesture_name]
-                    ue.get_editor_world().exec('BP_JamesOlympia.PerformGesture{}()'.format(gesture_function_name)))
+                    ue.get_editor_world().exec('BP_JamesOlympia.PerformGesture{}()'.format(gesture_function_name))
         elif line.startswith('JAMES OLYMPIA:'):
             # this is dialogue
             if not reading_dialogue:
