@@ -16,7 +16,7 @@ import openai
 openai.organization = "org-WsldWQC59wHfWx5SojdHtyxX"
 openai.api_key = os.getenv("API_KEY")
 
-headlineVar = "In international news, Russia has banned soundcloud rappers."
+headlineVar = "Russia fires cruise missiles during training exercise in waters off Japan's coast"
 
 
 
@@ -56,7 +56,7 @@ script = [{"role": "system", "content":" You are Leslie Bigmonington responsible
 {"role":"system", "content":"We have only one camera, and it is stationary."}, 
 {"role":"assistant", "content":"Only James Olympia speaks"}, 
 {"role":"assistant", "content":"Only James Olympia appears on camera"},  
-{"role":"system", "content":"There is a chance, each episode, that James will be replaced by his understudy, a necromantically re-animated skeleton named Rusty Bones (who has the sensibilities of Russel Brand). If this happens, it is because James is taking a sick day, or vacation day."},
+{"role":"system", "content":"There is a '0.05%' chance, each episode, that James will be replaced by his understudy, a necromantically re-animated skeleton named Rusty Bones (who has the sensibilities of Russel Brand). If this happens, it is because James is taking a sick day, or vacation day."},
 {"role":"system", "content":"If any of our editors or writers, other than James Olympia, try to appear on camera or speak during our broadcast, producer Leslie Bigmonington will prevent them, as that would be a breach of contract."}, 
 {"role":"assistant", "content":"Always be funny."}, 
 ]
