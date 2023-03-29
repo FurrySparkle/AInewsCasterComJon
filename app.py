@@ -10,6 +10,8 @@
 #     'prompt': 'This is a test!',
 #     'temperature': 0.7
 # }
+import runpy;
+
 
 import os
 import openai
@@ -71,13 +73,22 @@ response = openai.ChatCompletion.create(
   top_p=0.8,
   temperature=0.56) 
 
+
+
+
+
+
+
+
 completion = str(response)
 
 if completion:
    
         
-    with open('graindeal.txt', 'w') as file:
+    with open('nextScript.txt', 'w') as file:
         file.write(completion)
 
 else:
     print('Error:', completion)
+
+runpy.run_path(path_name='parser.py')

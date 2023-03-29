@@ -72,32 +72,34 @@ def read_script(filename):
     reading_dialogue = False
 
     for line in lines:
-        line = line.strip()
+        if ue.TTS.Speak == False:
+        
+            line = line.strip()
 
-        if line.startswith('[') and line.endswith(']'):
+            if line.startswith('[') and line.endswith(']'):
             # this is a stage direction or gesture
-            if reading_dialogue:
+                if reading_dialogue:
                 # if we were reading dialogue, end the TTS
-                ue.TTS.Speak(dialogue)
-                dialogue = ''
-                reading_dialogue = False
+                    ue.TTS.Speak(dialogue)
+                    dialogue = ''
+                    reading_dialogue = False
 
-            if line.lower() == '[laugh track]':
+                if line.lower() == '[laugh track]':
                 # if it's a laugh track, play it
-                ue.SoundWavePlayer.Start(ue.load_object(None, '/Game/Sounds/laugh_track_Cue'))
-            else:
+                    ue.SoundWavePlayer.Start(ue.load_object(None, '/Sounds/laugh_track_Cue'))
+                else:
                 # if it's a gesture, perform it
-                gesture_name = line[1:-1].strip().lower()
-                if gesture_name in GESTURE_LIST:
-                    gesture_function_name = GESTURE_LIST[gesture_name]
-                    ue.get_editor_world().exec('BP_JamesOlympia.PerformGesture{}()'.format(gesture_function_name))
-        elif line.startswith('JAMES OLYMPIA:'):
+                    gesture_name = line[1:-1].strip().lower()
+                    if gesture_name in GESTURE_LIST:
+                        gesture_function_name = GESTURE_LIST[gesture_name]
+                        ue.get_editor_world().exec('ABP_JamesGestures.PerformGesture{}()'.format(gesture_function_name))
+            elif line.startswith('JAMES OLYMPIA:'):
             # this is dialogue
-            if not reading_dialogue:
+                if not reading_dialogue:
                 # if we weren't reading dialogue, start the TTS
-                reading_dialogue = True
+                    reading_dialogue = True
 
-            dialogue += '\n' + line
+                    dialogue += '\n' + line
 
     # end any remaining dialogue
     if reading_dialogue:
