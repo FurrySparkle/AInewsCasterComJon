@@ -1,36 +1,23 @@
-{
-  "choices": [
-    {
-      "finish_reason": "stop",
-      "index": 0,
-      "message": {
-        "content": "[The show opens with James Olympia waving to the audience]\n
-        \nJames Olympia: Greetings! Greetings! It's me, James Olympia, and you're watching Yesterday Today,
-         the show that tells you what you need to know today, but yesterday. Today, we've got some exciting news from the world of military exercises. 
-         Russia has fired cruise missiles during a training exercise in waters off Japan's coast. [James nods]\n\
-         nNow, I know what you're thinking, \"James, that sounds like a dangerous situation.\" But let's be real, folks,
-          it's just Russia showing off their fancy toys to Japan. [James folds his arms across his chest] \n
-          \nOur accuracy assurance agent, Tony Bansya, has confirmed that no one was hurt in the exercise, so we can all relax and enjoy the show. [James leans back]\n 
-          \nBut let's not forget the real star of this story, those cruise missiles. Our science editor, Willy Newton, has informed me that cruise missiles are guided
-           missiles that are designed to travel long distances at low altitude. [James puts his hand on his heart]\n\
-           nNow, I don't know about you, but that sounds like something I could use in my daily commute. [laugh track is played]\n\
-           nOur AI consultant, Chad Gary Paul Trimbly, has also informed me that these missiles are often equipped with artificial intelligence, 
-           which means they can make decisions on their own. [James shakes his head]\n
-           \nNow, I don't know about you folks, but I don't trust anything that can make decisions on its own.
-            That's how we end up with killer robots. [laugh track is played]\n
-            \nIn conclusion, folks, Russia fired some missiles, no one was hurt, and we all got a little bit smarter. [James folds his arms behind his head] \n
-            \nI'm James Olympia, and I'll see you... yesterday. [James waves to the audience as the show ends]",
-        "role": "assistant"
-      }
-    }
-  ],
-  "created": 1680037026,
-  "id": "chatcmpl-6zAfKvXxWPBjIweWrA8ntvtGZyBpb",
-  "model": "gpt-3.5-turbo-0301",
-  "object": "chat.completion",
-  "usage": {
-    "completion_tokens": 391,
-    "prompt_tokens": 1573,
-    "total_tokens": 1964
-  }
-}
+[JAMES OLYMPIA nods and smiles to the camera]
+
+JAMES OLYMPIA: Greetings! It's me, James Olympia, and you're watching Yesterday Today, the show that tells you what you need to know today, but yesterday. Today, we have some news from Arizona, where the Governor's representative has resigned over a tweet. Now, you may be thinking, 'Oh no, not another tweet scandal.' But trust me, folks, this one is a doozy. 
+
+[JAMES OLYMPIA shakes his head and leans back slightly]
+
+JAMES OLYMPIA: It all started when the representative tweeted about the recent Nashville shooting. Now, I know what you're thinking, 'Oh no, not another shooting.' But don't worry, folks, this one is... actually, no, this one is pretty bad. 
+
+[JAMES OLYMPIA folds his arms across his chest]
+
+JAMES OLYMPIA: The tweet in question referred to the perpetrators of the shooting as 'transphobes'. Now, I don't know about you, but I'm pretty sure that's not a word. But apparently, the representative thought it was a good idea to use it on social media. 
+
+[JAMES OLYMPIA shakes his head and puts his hand on his heart]
+
+JAMES OLYMPIA: Now, I don't want to make light of a tragedy, but I do have to wonder what goes through someone's mind when they decide to tweet something like that. 
+
+[JAMES OLYMPIA laughs, but the laugh track is played]
+
+JAMES OLYMPIA: I mean, seriously, folks, what's next? Are we going to start calling hurricanes 'hurricanophobes'? 
+
+[JAMES OLYMPIA waves to the camera]
+
+JAMES OLYMPIA: That's all the time we have for today, folks. I'm James Olympia, and I'll see you... yesterday.
