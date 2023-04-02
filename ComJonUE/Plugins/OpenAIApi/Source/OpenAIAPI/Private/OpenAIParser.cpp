@@ -19,7 +19,7 @@ FCompletion OpenAIParser::ParseCompletion(const FJsonObject& json)
 {
 	FCompletion res = {};
 	
-	res.text = json.GetStringField(TEXT("text")) + settings.injectRestartText;
+	res.text = json.GetStringField(TEXT("message")) + settings.injectRestartText;
 	res.index = json.GetIntegerField(TEXT("index"));
 	res.finishReason = json.GetStringField(TEXT("finish_reason"));
 	

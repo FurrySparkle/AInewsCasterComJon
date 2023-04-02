@@ -46,9 +46,9 @@ void UOpenAICallGPT::Activate()
 	} else if (settings.bestOf < settings.numCompletions)
 	{
 		Finished.Broadcast({}, TEXT("bestOf must be greater than numCompletions"), {}, false);
-	} else if (settings.maxTokens <= 0 || ( engine != EOAEngineType::TEXT_DAVINCI_003 && settings.maxTokens >= 2048) || ( engine == EOAEngineType::TEXT_DAVINCI_003 && settings.maxTokens >= 4000))
+	} else if (settings.maxTokens <= 0 || ( engine != EOAEngineType::TEXT_DAVINCI_003 && settings.maxTokens >= 2048) || ( engine == EOAEngineType::GPT && settings.maxTokens >= 4097))
 	{
-		Finished.Broadcast({}, TEXT("maxTokens must be within 0 and 2048. Up to 4096 if using davinci-3"), {}, false);
+		Finished.Broadcast({}, TEXT("maxTokens must be within 0 and 2048. Up to 4096 if using GPT"), {}, false);
 	} else if (settings.stopSequences.Num() > 4)
 	{
 		Finished.Broadcast({}, TEXT("You can only include up to 4 Stop Sequences"), {}, false);
@@ -62,8 +62,8 @@ void UOpenAICallGPT::Activate()
 	FString apiMethod;
 	switch (engine)
 	{
-	case EOAEngineType::DAVINCI:
-			apiMethod = "davinci";
+	case EOAEngineType::GPT:
+			apiMethod = "gpt-3.5-turbo";
 	break;
 	case EOAEngineType::CURIE:
 			apiMethod = "curie";
@@ -92,19 +92,20 @@ void UOpenAICallGPT::Activate()
 	}
 
 	// convert parameters to strings
-	FString tempPrompt = settings.startSequence + prompt + settings.injectStartText;
+	FString tempPrompt = [settings.startSequence + prompt + settings.injectStartText];
 	FString tempHeader = "Bearer ";
 	tempHeader += _apiKey;
 
 	// set headers
-	FString url = FString::Printf(TEXT("https://api.openai.com/v1/engines/%s/completions"), *apiMethod);
+	FString url = FString::Printf(TEXT("https://api.openai.com/v1/chat/completions"));//Crude way to hack in the 3.5turbo removed pointer *apiMethod
 	HttpRequest->SetURL(url);
 	HttpRequest->SetHeader(TEXT("Content-Type"), TEXT("application/json"));
 	HttpRequest->SetHeader(TEXT("Authorization"), tempHeader);
 
 	//build payload
 	TSharedPtr<FJsonObject> _payloadObject = MakeShareable(new FJsonObject());
-	_payloadObject->SetStringField(TEXT("prompt"), tempPrompt);
+	_payloadObject->SetStringField(TEXT("messages"), tempPrompt);
+	_payloadObject->SetStringField(TEXT("model"), apiMethod);
 	_payloadObject->SetNumberField(TEXT("max_tokens"), settings.maxTokens);
 	_payloadObject->SetNumberField(TEXT("temperature"), FMath::Clamp(settings.temperature, 0.0f, 1.0f));
 	_payloadObject->SetNumberField(TEXT("top_p"), FMath::Clamp(settings.topP, 0.0f, 1.0f));

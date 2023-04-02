@@ -10,7 +10,7 @@
 UENUM(BlueprintType)
 enum class EOAEngineType : uint8
 {
-	DAVINCI = 0 UMETA(ToolTip = "Davinci is the most capable engine and can perform any task the other models can perform and often with less instruction."),
+	DAVINCI = 0 UMETA(ToolTip = "GPT3.5turbo is the most capable engine and can perform any task the other models can perform and often with less instruction."),
 	CURIE = 1 UMETA(ToolTip = "Curie is extremely powerful, yet very fast. While Davinci is stronger when it comes to analyzing complicated text, Curie is quite capable for many nuanced tasks like sentiment classification and summarization. Curie is also quite good at answering questions and performing Q&A and as a general service chatbot."),
 	BABBAGE = 2 UMETA(ToolTip = "Babbage can perform straightforward tasks like simple classification. It�s also quite capable when it comes to Semantic Search ranking how well documents match up with search queries."),
 	ADA = 3 UMETA(ToolTip = "Ada is usually the fastest model and can perform tasks like parsing text, address correction and certain kinds of classification tasks that don�t require too much nuance. Ada�s performance can often be improved by providing more context."),
@@ -70,7 +70,7 @@ struct FCompletion
 
 	// OpenAI's response.
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "OpenAI")
-		FString text = "";
+		FString message = "";
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "OpenAI")
 		int32 index = 0;

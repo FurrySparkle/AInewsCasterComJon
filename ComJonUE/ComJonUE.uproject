@@ -149,7 +149,7 @@
 		},
 		{
 			"Name": "OpenAIAPI",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "TextToSpeech",
@@ -182,6 +182,11 @@
 		{
 			"Name": "GeometryScripting",
 			"Enabled": true
+		},
+		{
+			"Name": "HttpGPT",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/433c180835184aeca0172680a69497ee"
 		}
 	]
 }
