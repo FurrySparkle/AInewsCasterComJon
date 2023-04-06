@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ComJonUE",
+			"Path": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ComJonUEEditor",
+			"Path": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

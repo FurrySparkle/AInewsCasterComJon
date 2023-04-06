@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\ComJonUE.Build.cs",
+		"C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Plugins\\OpenAIApi\\Source\\OpenAIAPI\\OpenAIAPI.Build.cs",
+		"C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE.Target.cs",
+		"C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUEEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

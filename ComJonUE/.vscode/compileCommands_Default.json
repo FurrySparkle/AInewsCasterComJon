@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\ComJonUE.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\.vscode\\compileCommands_Default\\ComJonUE.402.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\ComJonUE.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\.vscode\\compileCommands_Default\\ComJonUE.402.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\ComJonUE.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\.vscode\\compileCommands_Default\\ComJonUE.402.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\TextParser.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\.vscode\\compileCommands_Default\\ComJonUE.402.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\Source\\ComJonUE\\TextParser.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\15054\\Documents\\GitHub\\AInewsCasterComJon\\ComJonUE\\.vscode\\compileCommands_Default\\ComJonUE.402.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
