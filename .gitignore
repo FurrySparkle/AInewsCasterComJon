@@ -5,3 +5,5 @@ ModernHouse
 .env
 env
 engine
+DefaultPlugins.ini
+Plugins.ini

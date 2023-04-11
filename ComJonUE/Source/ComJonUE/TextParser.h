@@ -14,4 +14,9 @@ class COMJONUE_API UTextParser : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	
+		UFunction(BlueprintCallable, Category = "Text Parsing")
+		static FString Parser(
+			const TArray<FString*>& EpisodeArray,
+
+		) ;
 };
