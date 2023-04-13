@@ -34,10 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\ComJonUEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
-"C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Development\ComJonUE\ComJonUE.init.gen.cpp.obj"
-"C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Development\ComJonUE\TextParser.gen.cpp.obj"
 "C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Development\ComJonUE\ComJonUE.cpp.obj"
-"C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Development\ComJonUE\TextParser.cpp.obj"
 "C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Development\ComJonUE\Default.rc2.res"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"

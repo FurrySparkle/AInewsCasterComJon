@@ -269,7 +269,6 @@ C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Source\ComJonUE\ComJ
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Intermediate\Build\Win64\UnrealEditor\Inc\ComJonUE\UHT
 /I C:\Users\15054\Documents\GitHub\AInewsCasterComJon\ComJonUE\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64

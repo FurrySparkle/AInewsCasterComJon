@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenAIAPI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\UnrealProjects\OpenAI\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+"D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Development\OpenAIAPI\Module.OpenAIAPI.gen.cpp.obj"
+"D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Development\OpenAIAPI\Default.rc2.res"
+/OUT:"D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Development\OpenAIAPI\UE4Editor-OpenAIAPI.lib"

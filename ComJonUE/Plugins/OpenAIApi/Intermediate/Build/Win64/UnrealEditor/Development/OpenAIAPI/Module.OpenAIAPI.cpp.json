@@ -1,0 +1,39 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\development\\openaiapi\\module.openaiapi.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unrealprojects\\openai_503\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\development\\openaiapi\\definitions.openaiapi.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiapi.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiapi.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicalldalle.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaicalldalle.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaidefinitions.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaidefinitions.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicalldalle.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiutils.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaiutils.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\http.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\platformhttp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\windows\\windowsplatformhttp.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\genericplatform\\genericplatformhttp.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiparser.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaicallgpt.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaicallgpt.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicallgpt.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaidefinitions.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiparser.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\private\\openaiutils.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Development\OpenAIAPI\Definitions.OpenAIAPI.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Intermediate/Build/Win64/UE4Editor/Inc/OpenAIAPI/OpenAIAPI.init.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Intermediate/Build/Win64/UE4Editor/Inc/OpenAIAPI/OpenAICallDALLE.gen.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI/Public/OpenAICallDALLE.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BlueprintAsyncActionBase.generated.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAIDefinitions.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Inc\OpenAIAPI\OpenAIDefinitions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Inc\OpenAIAPI\OpenAICallDALLE.generated.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Intermediate/Build/Win64/UE4Editor/Inc/OpenAIAPI/OpenAICallGPT.gen.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI/Public/OpenAICallGPT.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Inc\OpenAIAPI\OpenAICallGPT.generated.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Intermediate/Build/Win64/UE4Editor/Inc/OpenAIAPI/OpenAIDefinitions.gen.cpp
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Intermediate/Build/Win64/UE4Editor/Inc/OpenAIAPI/OpenAIUtils.gen.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI/Public/OpenAIUtils.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4Editor\Inc\OpenAIAPI\OpenAIUtils.generated.h

@@ -1,0 +1,27 @@
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4\Development\OpenAIAPI\Definitions.OpenAIAPI.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAIAPI.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAIAPI.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAICallDALLE.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAICallDALLE.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/BlueprintAsyncActionBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BlueprintAsyncActionBase.generated.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAIDefinitions.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4\Inc\OpenAIAPI\OpenAIDefinitions.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\HttpModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpRequest.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpBase.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4\Inc\OpenAIAPI\OpenAICallDALLE.generated.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAIUtils.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4\Inc\OpenAIAPI\OpenAIUtils.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Http.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Interfaces/IHttpResponse.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\PlatformHttp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\Windows/WindowsPlatformHttp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform/GenericPlatformHttp.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAIParser.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAICallGPT.cpp
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Source\OpenAIAPI\Public\OpenAICallGPT.h
+D:\Documents\UnrealProjects\OpenAI\Plugins\OpenAIApi\Intermediate\Build\Win64\UE4\Inc\OpenAIAPI\OpenAICallGPT.generated.h
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAIDefinitions.cpp
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAIParser.cpp
+D:/Documents/UnrealProjects/OpenAI/Plugins/OpenAIApi/Source/OpenAIAPI/Private/OpenAIUtils.cpp

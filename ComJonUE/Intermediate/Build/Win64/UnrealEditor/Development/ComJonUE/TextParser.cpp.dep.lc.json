@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\15054\\documents\\github\\ainewscastercomjon\\comjonue\\source\\comjonue\\textparser.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\15054\\documents\\github\\ainewscastercomjon\\comjonue\\intermediate\\build\\win64\\comjonueeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\15054\\documents\\github\\ainewscastercomjon\\comjonue\\intermediate\\build\\win64\\unrealeditor\\development\\comjonue\\definitions.comjonue.h",
+            "c:\\users\\15054\\documents\\github\\ainewscastercomjon\\comjonue\\source\\comjonue\\textparser.h",
+            "c:\\users\\15054\\documents\\github\\ainewscastercomjon\\comjonue\\intermediate\\build\\win64\\unrealeditor\\inc\\comjonue\\uht\\textparser.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

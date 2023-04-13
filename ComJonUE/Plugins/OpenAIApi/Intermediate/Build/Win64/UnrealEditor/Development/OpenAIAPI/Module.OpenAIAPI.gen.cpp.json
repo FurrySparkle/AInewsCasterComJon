@@ -1,0 +1,31 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\development\\openaiapi\\module.openaiapi.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\unrealprojects\\openai_503\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\development\\openaiapi\\definitions.openaiapi.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaiapi.init.gen.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicalldalle.gen.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaicalldalle.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\blueprintasyncactionbase.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaidefinitions.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaidefinitions.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicalldalle.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicallgpt.gen.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaicallgpt.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaicallgpt.generated.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaidefinitions.gen.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaiutils.gen.cpp",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\source\\openaiapi\\public\\openaiutils.h",
+            "d:\\documents\\unrealprojects\\openai_503\\plugins\\openaiapi\\intermediate\\build\\win64\\unrealeditor\\inc\\openaiapi\\openaiutils.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
