@@ -1,3 +1,6 @@
-2023/03/14-16:09:56.333 3658 Reusing MANIFEST C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/03/14-16:09:56.334 3658 Recovering log #3
-2023/03/14-16:09:56.335 3658 Reusing old log C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/16-10:39:37.507 3bcc Reusing MANIFEST C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/16-10:39:37.513 3bcc Recovering log #3
+2023/05/16-10:39:37.513 3bcc Reusing old log C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/16-10:53:44.995 1094 Level-0 table #5: started
+2023/05/16-10:53:44.998 1094 Level-0 table #5: 14357 bytes OK
+2023/05/16-10:53:45.000 1094 Delete type=0 #3

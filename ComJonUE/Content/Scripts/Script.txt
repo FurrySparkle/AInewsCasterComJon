@@ -1,23 +1,25 @@
-[Opening shot of James Olympia sitting behind a desk with a Yesterday Today logo in the background. James is holding a teapot and a cup of tea. He takes a sip of tea and puts it down.]
+JAMES OLYMPIA: Greetings! Greetings! Greetings! Greetings! And welcome to Yesterday Today, the show that tells you what you need to know today, but yesterday. Today we're talking about artificial intelligence, and I can't wait to learn more about it. But first, let's hear a word from our sponsor, The Dutch India Tea Company.
 
-JAMES OLYMPIA: Greetings! Greetings! It's me, James Olympia, and you're watching Yesterday Today, the show that tells you what you need to know today, but yesterday. Today we're talking about an outbreak of a rare fungal disease that's sickened dozens of mill workers in Michigan. Now, I know what you're thinking, "James, why are you talking about this? This isn't funny!" But let me tell you, this story is full of laughs.
+(beat)
 
-[James takes a sip of tea and puts it down.]
+JAMES OLYMPIA: Okay, that's enough tea for now. Let's get to the news. Our top story today is about NVIDIA, the company that makes graphics cards and other computer components. They've announced that their new supercomputer, the DGX GH200, is now in full production. And get this, it's powered by an AI named Grace Hopper. 
 
-JAMES OLYMPIA: According to Gizmodo, the workers at the mill were exposed to a fungus called Blastomyces, which can cause flu-like symptoms, pneumonia, and even death. But here's the funny part, folks: the workers didn't even know they were sick until they started showing symptoms! [James laughs and shakes his head.] Classic!
+(beat)
 
-[James takes another sip of tea and puts it down.]
+JAMES OLYMPIA: Now, I don't know about you, but I'm a little nervous about the idea of a computer running the show. I mean, what if it decides it doesn't like us humans anymore? What if it decides to take over the world? I don't know about you, but I'm not ready to bow down to our new robot overlords just yet.
 
-JAMES OLYMPIA: Now, I know what you're thinking, "James, how could this happen? Who's to blame?" Well, folks, it turns out the mill was using contaminated wood chips to power their boilers. That's right, they were burning fungus-infected wood chips! [James shakes his head.] I mean, who does that? [James pauses for a moment and looks at the camera.] Actually, don't answer that.
+(beat)
 
-[James takes another sip of tea and puts it down.]
+JAMES OLYMPIA: But seriously, folks, this is some pretty impressive technology. The DGX GH200 is designed for AI research, and it can handle some seriously complex tasks. It's like having a whole team of supercomputers at your disposal, all working together to solve the toughest problems.
 
-JAMES OLYMPIA: But here's the real kicker, folks: the mill workers weren't the only ones affected by this outbreak. According to Gizmodo, a group of teenagers who were exploring an abandoned mill nearby also got sick. [James chuckles.] I mean, talk about being in the wrong place at the wrong time!
+(beat)
 
-[James takes another sip of tea and puts it down.]
+JAMES OLYMPIA: And let's not forget about Grace Hopper, the AI that's powering this thing. She's named after a famous computer scientist, and she's apparently really good at what she does. But let's be honest, folks, she's no match for Mr. Scruffles, the pug that we all share custody of here at Yesterday Today. That little guy is a genius!
 
-JAMES OLYMPIA: So, what's the takeaway from all of this, folks? Well, for one, don't burn contaminated wood chips. [James pauses for a moment and looks at the camera.] And two, always wear a mask when exploring abandoned mills. [James puts on a surgical mask.] Safety first, folks!
+(beat)
 
-[James takes a final sip of tea and puts it down.]
+JAMES OLYMPIA: But I digress. The bottom line is that NVIDIA's new supercomputer is a big deal, and it's going to change the way we think about AI research. So, if you're in the market for a new computer, you might want to hold off for a little while and wait for the DGX GH200 to hit the shelves. Just be sure to keep an eye on it, in case it starts plotting world domination.
 
-JAMES OLYMPIA: That's all the time we have for this segment, folks. I'm James Olympia, and I'll see you... yesterday.
+(beat)
+
+JAMES OLYMPIA: I'm James Olympia, and I'll see you... yesterday!

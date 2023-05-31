@@ -1,0 +1,8 @@
+2023/05/14-17:38:00.148 4994 Reusing MANIFEST C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/14-17:38:00.148 4994 Recovering log #4
+2023/05/14-17:38:00.149 4994 Reusing old log C:/Users/15054/Documents/GitHub/AInewsCasterComJon/ComJonUE/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/05/14-18:16:57.373 2ec8 Level-0 table #8: started
+2023/05/14-18:16:57.373 2ec8 Level-0 table #8: 0 bytes OK
+2023/05/14-18:16:57.376 2ec8 Delete type=0 #4
+2023/05/14-18:16:57.379 2ec8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/14-18:16:57.379 2ec8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
