@@ -2886,6 +2886,38 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Convai/Binaries/Win64/UnrealEditor-Convai.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Convai/Binaries/Win64/UnrealEditor-Convai.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Convai/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/Binaries/Win64/UnrealEditor-MetahumanSDK.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/Binaries/Win64/UnrealEditor-MetahumanSDK.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/Binaries/Win64/UnrealEditor-MetahumanSDKEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/Binaries/Win64/UnrealEditor-MetahumanSDKEditor.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Marketplace/FileSDK/Binaries/Win64/UnrealEditor-FileSDK.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -2910,19 +2942,35 @@
 			"Type": "RequiredResource"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPT.dll",
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTChatModule.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPT.pdb",
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTChatModule.pdb",
 			"Type": "SymbolFile"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTEditor.dll",
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTCommonModule.dll",
 			"Type": "DynamicLibrary"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTEditor.pdb",
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTCommonModule.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTEditorModule.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTEditorModule.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTImageModule.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/HttpGPT/Binaries/Win64/UnrealEditor-HttpGPTImageModule.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -25029,6 +25077,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Interchange/Runtime/Interchange.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/Convai/ConvAI.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Marketplace/DigitalHumanAnimation/MetaHumanSDK.uplugin",
 			"Type": "UFS"
 		},
 		{

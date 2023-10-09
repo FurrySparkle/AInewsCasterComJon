@@ -225,6 +225,11 @@
 			"Name": "MetaHumanSDK",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bdea302c21ad4664a7d28a2a93d40b3"
+		},
+		{
+			"Name": "RuntimeAudioImporter",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/81fd278e318e4235a028d3fdf46bf036"
 		}
 	]
 }
